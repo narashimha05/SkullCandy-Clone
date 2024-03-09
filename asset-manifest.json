@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skullcandywebsite/static/css/main.d0934ed4.css",
+    "main.js": "/skullcandywebsite/static/js/main.ba7519b2.js",
+    "static/js/453.cb1d6a96.chunk.js": "/skullcandywebsite/static/js/453.cb1d6a96.chunk.js",
+    "index.html": "/skullcandywebsite/index.html",
+    "main.d0934ed4.css.map": "/skullcandywebsite/static/css/main.d0934ed4.css.map",
+    "main.ba7519b2.js.map": "/skullcandywebsite/static/js/main.ba7519b2.js.map",
+    "453.cb1d6a96.chunk.js.map": "/skullcandywebsite/static/js/453.cb1d6a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0934ed4.css",
+    "static/js/main.ba7519b2.js"
+  ]
+}
